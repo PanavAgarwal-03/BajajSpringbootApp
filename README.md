@@ -34,7 +34,7 @@ Edit `src/main/resources/application.properties` to configure the application:
 ```properties
 # Student details - CONFIGURED FOR PANAV AGARWAL
 student.name=Panav Agarwal
-student.regNo=22bce7652
+student.regNo=22bce7651
 student.email=panav.22bce7651@vitapstudent.ac.in
 
 # Webhook endpoints (usually no need to change these)
